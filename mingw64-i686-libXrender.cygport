@@ -3,7 +3,7 @@ ORIG_PN="libXrender"
 inherit cross xorg
 
 NAME="mingw64-i686-libXrender"
-VERSION=0.9.7
+VERSION=0.9.8
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X.Org Xrender library for Win32 toolchain"
